@@ -1,0 +1,14 @@
+D:\Desenv\workspace-mars\teste-aspectj\src\main\java\com\diego\negocio\UtilitarioHibernate.java
+D:\Desenv\workspace-mars\teste-aspectj\src\main\java\com\diego\aop\hystrixmetrics\HystrixWrapper.java
+D:\Desenv\workspace-mars\teste-aspectj\src\main\java\com\diego\aop\hystrixmetrics\HystrixWrapperAspect.java
+D:\Desenv\workspace-mars\teste-aspectj\src\main\java\com\diego\entity\Pessoa.java
+D:\Desenv\workspace-mars\teste-aspectj\src\main\java\com\diego\service\PessoaService.java
+D:\Desenv\workspace-mars\teste-aspectj\src\main\java\com\diego\repository\PessoaRepository.java
+D:\Desenv\workspace-mars\teste-aspectj\src\main\java\com\diego\aop\auditoria\Auditavel.java
+D:\Desenv\workspace-mars\teste-aspectj\src\main\java\com\diego\aop\auditoria\AuditoriaAspect.java
+D:\Desenv\workspace-mars\teste-aspectj\src\main\java\com\diego\rest\PessoaResource.java
+D:\Desenv\workspace-mars\teste-aspectj\src\main\java\com\diego\negocio\TesteAnnotationMethod.java
+D:\Desenv\workspace-mars\teste-aspectj\src\main\java\com\diego\negocio\TesteException.java
+D:\Desenv\workspace-mars\teste-aspectj\src\main\java\com\diego\main\Main.java
+D:\Desenv\workspace-mars\teste-aspectj\src\main\java\com\diego\aop\temporizacao\Temporizavel.java
+D:\Desenv\workspace-mars\teste-aspectj\src\main\java\com\diego\aop\temporizacao\TempoExecucaoAspect.java
